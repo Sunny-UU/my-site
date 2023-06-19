@@ -14,6 +14,6 @@ git add -A
 git commit -m 'deploy'
 
 # 如果发布到 https://<USERNAME>.github.io/<REPO>  本地分支：远程分支
-git push -f https://github.com/Sunny-UU/my-site.git lulu-page:lulu-page
+git push -f https://github.com/Sunny-UU/my-site.git gh-pages:gh-pages
 
 cd -
