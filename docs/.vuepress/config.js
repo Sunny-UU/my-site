@@ -3,7 +3,7 @@ module.exports = {
   description: "XXX",
   theme: "reco",
   // 和仓库名相同
-  base: "/my-page/",
+  base: "/my-site/",
   locales: {
     "/": {
       lang: "zh-CN",
