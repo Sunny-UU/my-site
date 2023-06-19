@@ -2,6 +2,8 @@ module.exports = {
   title: "我的博客",
   description: "XXX",
   theme: "reco",
+  // 和仓库名相同
+  base: "/my-page/",
   locales: {
     "/": {
       lang: "zh-CN",
